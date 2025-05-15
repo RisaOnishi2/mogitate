@@ -18,7 +18,6 @@ MySQL 8.0.26
 ## URL
 開発環境：http://localhost/ ,
 pypMyAdmin：http://localhost:8080/
-
-##補足
+## 補足
 mainにpushしようとしたところ、エラーが発生してしまったため、
 やむなくmasterにpushしています。
