@@ -19,5 +19,5 @@ MySQL 8.0.26
 開発環境：http://localhost/ ,
 pypMyAdmin：http://localhost:8080/
 ## 補足
-mainにpushしようとしたところ、エラーが発生してしまったため、
-やむなくmasterにpushしています。
+始めmainにpushしようとしたところ、エラーが発生してしまったため、
+masterにpushしたデータが残っていますが、無視してください。
