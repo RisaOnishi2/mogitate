@@ -26,7 +26,7 @@ class RegisterProductRequest extends FormRequest
         return [
             'name' => 'required|string|max:255',
             'price' => 'required|integer|digits_between:0, 10000',
-            'season' => 'required',
+            'seasons' => 'required|array',
             'description' => 'required|max:120',
             'image' => 'required|image|mimes:jpeg,png',
         ];
